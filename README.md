@@ -14,6 +14,9 @@
         <a href="https://www.linkedin.com/in/sararaswati/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
         </a>
+        <a href="https://portfolio-caterpillar.vercel.app/" target="_blank">
+          <img src="cat-removebg-preview.png" alt="portfolio" width="40" height="40"/>
+        </a>
       </p>
       <h3>Languages and Tools:</h3>
       <p>
