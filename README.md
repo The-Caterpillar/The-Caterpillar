@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saraswati</h1>
-<h3 align="center">Software Engineer @ Deloitte</h3>
+<h3 align="center">Software Engineer @Deloitte</h3>
 
 <table>
   <tr>
     <td width="55%">
       <ul>
-        <li>🎓 M.C.A. from N.I.T. Jsr</li>
+        <li>🎓 M.C.A. @ N.I.T. Jsr</li>
         <li>👩🏻‍💻 Currently learning Full-Stack Development (React + FastAPI)</li>
         <li>📫 Reach me at <b>saraswati99tiwari@gmail.com</b></li>
       </ul>
