@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saraswati</h1>
-<h3 align="center">Software Engineer @Deloitte</h3>
+<h3 align="center"> Analyst @Deloitte</h3>
 
 <table>
   <tr>
