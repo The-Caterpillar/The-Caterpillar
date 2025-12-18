@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
+<p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyYmdsNjV2M3JwMWt2cHJ0YmgzejJtdjQ4YmdsbGhwOTY3bzRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+</p>
 
 ---
 
